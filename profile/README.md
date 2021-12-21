@@ -1,19 +1,7 @@
-<pre align="center">
-                                  ,'\                              
-    _.----.        ____         ,'  _\   ___    ___     ____       
-_,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`. 
-\      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
- \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
-   \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
-    \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
-     \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
-      \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
-       \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
-        \_.-'       |__|    `-._ |              '-.|     '-.| |   |
-                                `'                            '-._|
-</pre>
-
+![Pokémon](https://raw.githubusercontent.com/Pokemon-PythonRed/Images/main/pokemon.png "Pokémon")
 <h1 align="center">PythonRed Version</h1>
 <p align="center">
-	<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed"><img src="https://gpvc.arturio.dev/Pokemon-PythonRed"></a>
+	<a href="https://github.com/Pokemon-PythonRed"><img src="https://gpvc.arturio.dev/Pokemon-PythonRed"></a>
 </p>
+<hr>
+<h6 align="center">Note: this Organisation is not affiliated with or supported by <em>The Pokémon Company</em>.</h6>
