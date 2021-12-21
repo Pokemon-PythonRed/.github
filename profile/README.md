@@ -4,4 +4,4 @@
 	<a href="https://github.com/Pokemon-PythonRed"><img src="https://gpvc.arturio.dev/Pokemon-PythonRed"></a>
 </p>
 <hr>
-<h6 align="center">Note: this Organisation is not affiliated with or supported by <em>The Pokémon Company</em>.</h6>
+<h6 align="center">Note: this Organisation is not affiliated with or supported by <em>The Pokémon Company</em>; the logo is only used as a visual effect.</h6>
