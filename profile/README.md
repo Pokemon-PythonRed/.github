@@ -2,7 +2,7 @@
 <h1 align="center">PythonRed Version</h1>
 <p align="center">
 	<a href="https://github.com/Pokemon-PythonRed"><img src="https://gpvc.arturio.dev/Pokemon-PythonRed"></a> <!--Views-->
-	<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/actions/workflows/metrics.yml"><img src="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/actions/workflows/metrics.yml/badge.svg?branch=master"></a> <!--Metrics Status-->
+	<a href="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/actions/workflows/main.yml"><img src="https://github.com/Pokemon-PythonRed/Pokemon-PythonRed/actions/workflows/main.yml/badge.svg?branch=master"></a> <!--Main-->
 </p>
 <p>
 	<a href="https://github.com/Pokemon-PythonRed"><img src="https://raw.githubusercontent.com/Pokemon-PythonRed/Pokemon-PythonRed/master/github-metrics.svg"></a> <!--Metrics-->
